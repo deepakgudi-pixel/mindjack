@@ -19,7 +19,7 @@ ScrollTrigger.create({
     trigger: "wrap",
     // markers: true,
     start: "top top",
-    scrub: 100,
+    scrub: 10,
     end: "bottom bottom",
     snap: 1/2,
     onUpdate: (self) => {
